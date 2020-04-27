@@ -1,0 +1,1 @@
+The folder contains solutions for the codechef problems solved as part of Minor 1, Minor 2 and, Sem End for the course. The files include the accepted solutions, Small functions tried for testing the code, codes rejected duet to Exceeded Time Limit.
