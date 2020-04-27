@@ -16,5 +16,3 @@ bubbleSort(arr)
 print ("Sorted array :") 
 for i in range(len(arr)): 
 	print ("%d" %arr[i],end=" ") 
-
-# This code is contributed by Shreyanshi Arun 
